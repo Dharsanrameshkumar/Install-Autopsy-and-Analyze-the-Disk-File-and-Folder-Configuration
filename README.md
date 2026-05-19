@@ -1,4 +1,3 @@
-<img width="1600" height="807" alt="WhatsApp Image 2026-05-19 at 2 32 38 PM" src="https://github.com/user-attachments/assets/9574394a-57fa-4743-ba6f-3fa22dc1c44f" /># Install Autopsy and Analyze the Disk File and Folder Configuration
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
